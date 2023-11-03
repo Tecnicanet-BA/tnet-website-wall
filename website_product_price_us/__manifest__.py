@@ -5,7 +5,7 @@
     'category': 'Sales/Sales',
     "depends": ["base", "product"],
     'description': """Product Price in USD on Website - Products & Pricelists""",
-    "license": "LGPL-3",
+    "license": "AGPL-3",
     "author": "Valentín Romero, Tecnicanet BA",
     "website": "",
     "data": [],
