@@ -22,7 +22,5 @@ in the pricelist rules.
 Configuration
 =============
 
-In order to hide brands from the e-commerce:
-
 #. In the product model, we must have created a field called *x_studio_precio_en_us*
 #. Go to *Website > Products > Pricelists > Pricelist > Price Rules > Set Based on Precio en US*
