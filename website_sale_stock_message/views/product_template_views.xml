@@ -9,11 +9,11 @@
                 <group string="eCommerce Shop: Stock Message" name="stock_message" attrs="{'invisible': [('sale_ok','=',False)]}">
                     
                     <field name="show_stock_message_1"/>
-                    <label for="stock_message_1_condition" attrs="{'invisible': [('show_stock_message_1','=',False)]}" string="Message(1) Condition"/>
+                    <label for="stock_message_1_condition" attrs="{'invisible': [('show_stock_message_1','=',False)]}" string="Message Condition"/>
                     <div attrs="{'invisible': [('show_stock_message_1','=',False)]}">
                         Stock on hand is greater than or equal to <field name="stock_message_1_condition" class="oe_inline" /> Units
                     </div>
-                    <label for="stock_message_1" attrs="{'invisible': [('show_stock_message_1','=',False)]}" string="Message(1)"/>
+                    <label for="stock_message_1" attrs="{'invisible': [('show_stock_message_1','=',False)]}" string="Message"/>
                     <div  attrs="{'invisible': [('show_stock_message_1','=',False)]}">
                         <field name="stock_message_1" class="oe_inline"/>
                     </div>
@@ -21,15 +21,15 @@
                     <hr/>
                     
                     <field name="show_stock_message_2"/>
-                    <label for="stock_message_2_condition_1" attrs="{'invisible': [('show_stock_message_2','=',False)]}" string="Message(2) Condition(1)"/>
+                    <label for="stock_message_2_condition_1" attrs="{'invisible': [('show_stock_message_2','=',False)]}" string="Message Condition(1)"/>
                     <div attrs="{'invisible': [('show_stock_message_2','=',False)]}">
                         Stock on hand is less than or equal to <field name="stock_message_2_condition_1" class="oe_inline" /> Units
                     </div>
-                    <label for="stock_message_2_condition_2" attrs="{'invisible': [('show_stock_message_2','=',False)]}" string="Message(2) Condition(2)"/>
+                    <label for="stock_message_2_condition_2" attrs="{'invisible': [('show_stock_message_2','=',False)]}" string="Message Condition(2)"/>
                     <div attrs="{'invisible': [('show_stock_message_2','=',False)]}">
                         Stock on hand is greater than or equal to <field name="stock_message_2_condition_2" class="oe_inline" /> Units
                     </div>
-                    <label for="stock_message_2" attrs="{'invisible': [('show_stock_message_2','=',False)]}" string="Message(2)"/>
+                    <label for="stock_message_2" attrs="{'invisible': [('show_stock_message_2','=',False)]}" string="Message"/>
                     <div  attrs="{'invisible': [('show_stock_message_2','=',False)]}">
                         <field name="stock_message_2" class="oe_inline"/>
                     </div>
@@ -37,15 +37,15 @@
                     <hr/>
 
                     <field name="show_stock_message_3"/>
-                    <label for="stock_message_3_condition_1" attrs="{'invisible': [('show_stock_message_3','=',False)]}" string="Message(3) Condition(1)"/>
+                    <label for="stock_message_3_condition_1" attrs="{'invisible': [('show_stock_message_3','=',False)]}" string="Message Condition(1)"/>
                     <div attrs="{'invisible': [('show_stock_message_3','=',False)]}">
                         Stock on hand is less than or equal to <field name="stock_message_3_condition_1" class="oe_inline" /> Units
                     </div>
-                    <label for="stock_message_3_condition_2" attrs="{'invisible': [('show_stock_message_3','=',False)]}" string="Message(3) Condition(2)"/>
+                    <label for="stock_message_3_condition_2" attrs="{'invisible': [('show_stock_message_3','=',False)]}" string="Message Condition(2)"/>
                     <div attrs="{'invisible': [('show_stock_message_3','=',False)]}">
                         Stock on hand is greater than or equal to <field name="stock_message_3_condition_2" class="oe_inline" /> Units
                     </div>
-                    <label for="stock_message_3" attrs="{'invisible': [('show_stock_message_3','=',False)]}" string="Message(3)"/>
+                    <label for="stock_message_3" attrs="{'invisible': [('show_stock_message_3','=',False)]}" string="Message"/>
                     <div  attrs="{'invisible': [('show_stock_message_3','=',False)]}">
                         <field name="stock_message_3" class="oe_inline"/>
                     </div>
@@ -53,11 +53,11 @@
                     <hr/>
 
                     <field name="show_stock_message_4"/>
-                    <label for="stock_message_4_condition" attrs="{'invisible': [('show_stock_message_4','=',False)]}" string="Message(4) Condition"/>
+                    <label for="stock_message_4_condition" attrs="{'invisible': [('show_stock_message_4','=',False)]}" string="Message Condition"/>
                     <div attrs="{'invisible': [('show_stock_message_4','=',False)]}">
                         Stock on hand is less than or equal to <field name="stock_message_4_condition" class="oe_inline" /> Units
                     </div>
-                    <label for="stock_message_4" attrs="{'invisible': [('show_stock_message_4','=',False)]}" string="Message(4)"/>
+                    <label for="stock_message_4" attrs="{'invisible': [('show_stock_message_4','=',False)]}" string="Message"/>
                     <div  attrs="{'invisible': [('show_stock_message_4','=',False)]}">
                         <field name="stock_message_4" class="oe_inline"/>
                     </div>

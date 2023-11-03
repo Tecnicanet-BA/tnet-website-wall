@@ -19,71 +19,71 @@ msgstr ""
 #: model:ir.model.fields,field_description:website_sale_stock_message.field_product_product__stock_message_1
 #: model:ir.model.fields,field_description:website_sale_stock_message.field_product_template__stock_message_1
 #: model_terms:ir.ui.view,arch_db:website_sale_stock_message.product_template_form_view_inherit_website_sale_stock_message
-msgid "Message(1)"
-msgstr "Mensaje(1)"
+msgid "Message"
+msgstr "Mensaje"
 
 #. module: website_sale_stock_message
 #: model:ir.model.fields,field_description:website_sale_stock_message.field_product_product__stock_message_1_condition
 #: model:ir.model.fields,field_description:website_sale_stock_message.field_product_template__stock_message_1_condition
 #: model_terms:ir.ui.view,arch_db:website_sale_stock_message.product_template_form_view_inherit_website_sale_stock_message
-msgid "Message(1) Condition"
-msgstr "Mensaje(1) Condición"
+msgid "Message Condition"
+msgstr "Mensaje Condición"
 
 #. module: website_sale_stock_message
 #: model:ir.model.fields,field_description:website_sale_stock_message.field_product_product__stock_message_2
 #: model:ir.model.fields,field_description:website_sale_stock_message.field_product_template__stock_message_2
 #: model_terms:ir.ui.view,arch_db:website_sale_stock_message.product_template_form_view_inherit_website_sale_stock_message
-msgid "Message(2)"
-msgstr "Mensaje(2)"
+msgid "Message"
+msgstr "Mensaje"
 
 #. module: website_sale_stock_message
 #: model:ir.model.fields,field_description:website_sale_stock_message.field_product_product__stock_message_2_condition_1
 #: model:ir.model.fields,field_description:website_sale_stock_message.field_product_template__stock_message_2_condition_1
 #: model_terms:ir.ui.view,arch_db:website_sale_stock_message.product_template_form_view_inherit_website_sale_stock_message
-msgid "Message(2) Condition(1)"
-msgstr "Mensaje(2) Condición(1)"
+msgid "Message Condition(1)"
+msgstr "Mensaje Condición(1)"
 
 #. module: website_sale_stock_message
 #: model:ir.model.fields,field_description:website_sale_stock_message.field_product_product__stock_message_2_condition_2
 #: model:ir.model.fields,field_description:website_sale_stock_message.field_product_template__stock_message_2_condition_2
 #: model_terms:ir.ui.view,arch_db:website_sale_stock_message.product_template_form_view_inherit_website_sale_stock_message
-msgid "Message(2) Condition(2)"
-msgstr "Mensaje(2) Condición(2)"
+msgid "Message Condition(2)"
+msgstr "Mensaje Condición(2)"
 
 #. module: website_sale_stock_message
 #: model:ir.model.fields,field_description:website_sale_stock_message.field_product_product__stock_message_3
 #: model:ir.model.fields,field_description:website_sale_stock_message.field_product_template__stock_message_3
 #: model_terms:ir.ui.view,arch_db:website_sale_stock_message.product_template_form_view_inherit_website_sale_stock_message
-msgid "Message(3)"
-msgstr "Mensaje(3)"
+msgid "Message"
+msgstr "Mensaje"
 
 #. module: website_sale_stock_message
 #: model:ir.model.fields,field_description:website_sale_stock_message.field_product_product__stock_message_3_condition_1
 #: model:ir.model.fields,field_description:website_sale_stock_message.field_product_template__stock_message_3_condition_1
 #: model_terms:ir.ui.view,arch_db:website_sale_stock_message.product_template_form_view_inherit_website_sale_stock_message
-msgid "Message(3) Condition(1)"
-msgstr "Mensaje(3) Condición(1)"
+msgid "Message Condition(1)"
+msgstr "Mensaje Condición(1)"
 
 #. module: website_sale_stock_message
 #: model:ir.model.fields,field_description:website_sale_stock_message.field_product_product__stock_message_3_condition_2
 #: model:ir.model.fields,field_description:website_sale_stock_message.field_product_template__stock_message_3_condition_2
 #: model_terms:ir.ui.view,arch_db:website_sale_stock_message.product_template_form_view_inherit_website_sale_stock_message
-msgid "Message(3) Condition(2)"
-msgstr "Mensaje(3) Condición(2)"
+msgid "Message Condition(2)"
+msgstr "Mensaje Condición(2)"
 
 #. module: website_sale_stock_message
 #: model:ir.model.fields,field_description:website_sale_stock_message.field_product_product__stock_message_4
 #: model:ir.model.fields,field_description:website_sale_stock_message.field_product_template__stock_message_4
 #: model_terms:ir.ui.view,arch_db:website_sale_stock_message.product_template_form_view_inherit_website_sale_stock_message
-msgid "Message(4)"
-msgstr "Mensaje(4)"
+msgid "Message"
+msgstr "Mensaje"
 
 #. module: website_sale_stock_message
 #: model:ir.model.fields,field_description:website_sale_stock_message.field_product_product__stock_message_4_condition
 #: model:ir.model.fields,field_description:website_sale_stock_message.field_product_template__stock_message_4_condition
 #: model_terms:ir.ui.view,arch_db:website_sale_stock_message.product_template_form_view_inherit_website_sale_stock_message
-msgid "Message(4) Condition"
-msgstr "Mensaje(4) Condición"
+msgid "Message Condition"
+msgstr "Mensaje Condición"
 
 #. module: website_sale_stock_message
 #: model:ir.model,name:website_sale_stock_message.model_product_template
@@ -93,26 +93,26 @@ msgstr "Plantilla de producto"
 #. module: website_sale_stock_message
 #: model:ir.model.fields,field_description:website_sale_stock_message.field_product_product__show_stock_message_1
 #: model:ir.model.fields,field_description:website_sale_stock_message.field_product_template__show_stock_message_1
-msgid "Show Message(1)"
-msgstr "Mostrar Mensaje(1)"
+msgid "Show Stock High"
+msgstr "Mostrar Stock Alto"
 
 #. module: website_sale_stock_message
 #: model:ir.model.fields,field_description:website_sale_stock_message.field_product_product__show_stock_message_2
 #: model:ir.model.fields,field_description:website_sale_stock_message.field_product_template__show_stock_message_2
-msgid "Show Message(2)"
-msgstr "Mostrar Mensaje(2)"
+msgid "Show Medium Stock"
+msgstr "Mostrar Stock Medio"
 
 #. module: website_sale_stock_message
 #: model:ir.model.fields,field_description:website_sale_stock_message.field_product_product__show_stock_message_3
 #: model:ir.model.fields,field_description:website_sale_stock_message.field_product_template__show_stock_message_3
-msgid "Show Message(3)"
-msgstr "Mostrar Mensaje(3)"
+msgid "Show Low Stock"
+msgstr "Mostrar Stock Bajo"
 
 #. module: website_sale_stock_message
 #: model:ir.model.fields,field_description:website_sale_stock_message.field_product_product__show_stock_message_4
 #: model:ir.model.fields,field_description:website_sale_stock_message.field_product_template__show_stock_message_4
-msgid "Show Message(4)"
-msgstr "Mostrar Mensaje(4)"
+msgid "Show Out of Stock"
+msgstr "Mostrar Sin Stock"
 
 #. module: website_sale_stock_message
 #: model_terms:ir.ui.view,arch_db:website_sale_stock_message.product_template_form_view_inherit_website_sale_stock_message

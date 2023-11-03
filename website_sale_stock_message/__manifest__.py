@@ -6,9 +6,8 @@
     'category': 'Website/Website',
     'summary': 'Manage the message regarding inventory and product availability',
     "version": "15.0.1.0.0",
-    "license": "LGPL-3",
+    "license": "AGPL-3",
     "author": "Valentín Romero, Tecnicanet BA",
-    'description': """Manage the message regarding inventory and product availability""",
     'depends': [
         'website_sale',
         'sale_stock',
