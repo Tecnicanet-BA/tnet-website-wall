@@ -1,0 +1,11 @@
+/*######## Custom CSS ###########*/
+
+.knk_matrix_table .matrix-form-control {
+    border: 1px solid #DEE2E6;
+    height: calc(1.4em + 0.75rem + 2px);
+}
+.knk_matrix_table .col_text_center {
+    vertical-align: middle;
+    align-items: center;
+    display: flex;
+}
