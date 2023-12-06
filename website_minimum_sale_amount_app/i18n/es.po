@@ -1,0 +1,83 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* website_minimum_sale_amount_app
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 15.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-25 13:25+0000\n"
+"PO-Revision-Date: 2023-09-25 13:25+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: website_minimum_sale_amount_app
+#: model_terms:ir.ui.view,arch_db:website_minimum_sale_amount_app.sale_minmum_amount
+msgid ""
+"<span class=\"\">Process Checkout</span>\n"
+"\t\t\t\t\t<span class=\"fa fa-chevron-right\"/>"
+msgstr ""
+
+#. module: website_minimum_sale_amount_app
+#: model_terms:ir.ui.view,arch_db:website_minimum_sale_amount_app.sale_minmum_amount
+msgid ""
+"<span class=\"\">Process Checkout</span>\n"
+"\t                <span class=\"fa fa-chevron-right\"/>"
+msgstr ""
+
+#. module: website_minimum_sale_amount_app
+#: model_terms:ir.ui.view,arch_db:website_minimum_sale_amount_app.website_sale_short_cart_summary_inherit
+msgid "<span>Process Checkout</span>"
+msgstr ""
+
+#. module: website_minimum_sale_amount_app
+#: model_terms:ir.ui.view,arch_db:website_minimum_sale_amount_app.cart_lines
+msgid "Add one"
+msgstr ""
+
+#. module: website_minimum_sale_amount_app
+#: model:ir.model,name:website_minimum_sale_amount_app.model_res_company
+msgid "Companies"
+msgstr "Compañías"
+
+#. module: website_minimum_sale_amount_app
+#: model:ir.model,name:website_minimum_sale_amount_app.model_res_config_settings
+msgid "Config Settings"
+msgstr "Opciones de configuración"
+
+#. module: website_minimum_sale_amount_app
+#: model:ir.model.fields,field_description:website_minimum_sale_amount_app.field_res_config_settings__is_amount
+msgid "Is Amount"
+msgstr ""
+
+#. module: website_minimum_sale_amount_app
+#: model:ir.model.fields,field_description:website_minimum_sale_amount_app.field_res_company__min_amount
+#: model:ir.model.fields,field_description:website_minimum_sale_amount_app.field_res_config_settings__min_amount
+msgid "Minimum Amount"
+msgstr ""
+
+#. module: website_minimum_sale_amount_app
+#: model_terms:ir.ui.view,arch_db:website_minimum_sale_amount_app.cart_lines
+msgid "Remove one"
+msgstr ""
+
+#. module: website_minimum_sale_amount_app
+#: model_terms:ir.ui.view,arch_db:website_minimum_sale_amount_app.res_config_settings_view_form_website_inherit_id
+msgid "Website Minimum Sale Price"
+msgstr ""
+
+#. module: website_minimum_sale_amount_app
+#: model_terms:ir.ui.view,arch_db:website_minimum_sale_amount_app.sale_minmum_amount
+msgid "Your Sale Price Amount must be grater Then"
+msgstr ""
+"Para poder finalizar la compra, tenés que realizar un pedido mínimo de"
+
+#. module: website_minimum_sale_amount_app
+#: model_terms:ir.ui.view,arch_db:website_minimum_sale_amount_app.sale_minmum_amount
+msgid "Your Sale Price must be grater Then"
+msgstr ""
+"Para poder finalizar la compra, tenés que realizar un pedido mínimo de"
