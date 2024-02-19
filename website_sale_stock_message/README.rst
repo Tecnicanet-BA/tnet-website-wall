@@ -9,7 +9,7 @@ Website Sale Stock Message
    !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
    
 
-Éste módulo visualiza un mensaje en el sitio web que se relaciona con el stock alto/bajo/medio que se defina en el módulo de Inventario.
+Éste módulo visualiza un mensaje en el sitio web que se relaciona con el stock alto/bajo/medio que se defina en el módulo de Inventario de cada producto. Le permitirá informar a sus clientes en el sitio web sobre su disponibilidad de stock de los productos.
 
 **Tabla de contenidos**
 
