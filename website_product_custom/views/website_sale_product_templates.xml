@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+  <template id="website_sale_stock_product" inherit_id="website_sale.product" priority="4">
+    <xpath expr="//h1[@t-field='product.name']" position="replace">
+      <h1 itemprop="default_code" t-field="product.default_code">Product Default Code</h1>
+    </xpath>
+  </template>
+
+  <template id="website_sale_stock_products_item" inherit_id="website_sale.products_item">
+    <xpath expr="//a[@t-field='product.name']" position="attributes">
+      <attribute name="t-if">product.default_code</attribute>
+      <attribute name="itemprop">default_code</attribute>
+      <attribute name="t-att-content">product.default_code</attribute>
+      <attribute name="t-field">product.default_code</attribute>
+    </xpath>
+  </template>
+
+  <template id="products_description" inherit_id="website_sale.products_description" priority="1">
+      <xpath expr="//*[@t-field='product.description_sale']" position="replace">
+        <div itemprop="name" t-field="product.name"/>
+      </xpath>
+  </template>
+
+</odoo>
